@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Tech",
+  "description": "Enterprise-grade website for Nexora Tech - Next-Generation AI solutions, cloud engineering, cybersecurity, and digital transformation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
